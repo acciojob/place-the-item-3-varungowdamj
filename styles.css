@@ -1,7 +1,6 @@
-
-/* Your CSS Code here. */
-.holder{
-    display:flex;
-	justify-content:space-evenly;
-    
+/* CSS code for .holder */
+.holder {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap; /* Ensures items wrap to the next line if they don't fit */
 }
